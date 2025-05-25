@@ -17,7 +17,7 @@ cd && mkdir clashcd clash
 wget https://doc.6bc.net/kehuduan/clash/clash-linux-amd64-v1.14.0.gz
 ```
 
-![1](/img/1.png)
+![1](img/1.png)
 
 2. 下载完成后进行解压文件，给予文件权限。
 
@@ -32,7 +32,7 @@ wget https://doc.6bc.net/kehuduan/clash/clash-linux-amd64-v1.14.0.gz
    clash -v
    ```
 
-![](/img/2.png)
+![](img/2.png)
 
 ## 步骤二：启动Clash并生成config.yaml
 
@@ -51,9 +51,9 @@ wget -O config.yaml 订阅地址
 clash
 ```
 
-![](/img/3.png)
+![](img/3.png)
 
-![](/img/4.png)
+![](img/4.png)
 
 ## 步骤三：测试Clash配置
 
@@ -71,13 +71,13 @@ clash
 
 按照上述步骤设置浏览器的网络代理后，尝试访问Google等网站。如果无法访问，请检查代理设置是否正确。
 
-![](/img/5.png)
+![](img/5.png)
 
 ## 步骤五：节点管理
 
 可以通过访问 `http://clash.razord.top/#/proxies` 来进行节点管理和切换。
 
-![](/img/6.png)
+![](img/6.png)
 
 ## 注意事项
 
